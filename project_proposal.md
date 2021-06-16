@@ -2,7 +2,7 @@
 
 ## Question
 
-For my exploratory data analysis project, I would like to see if the exit/entry data for the New York City MTA turnstile data can be used to predict the relative population density of different NYC neighborhoods. My hypothesis is that more populous neighborhoods will have higher MTA outflow traffic (exits minus entries) on weekday mornings, as well as higher inflow traffic (entries minus exits) in the evenings, due to residents leaving for work and returning home.
+For my exploratory data analysis project, I would like to see if the exit/entry data for the New York City MTA turnstile data can be used to predict the relative population density of different NYC neighborhoods. My hypothesis is that more populous neighborhoods will have higher MTA outflow traffic (entries minus exits) on weekday mornings, as well as higher inflow traffic (exits minus entries) in the evenings, due to residents leaving for work and returning home.
 
 ## Data Description
 
