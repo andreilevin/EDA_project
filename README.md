@@ -25,14 +25,14 @@ We performed a thorough exploratory data analysis of the MTA turnstile data, pri
 
 After taking the daily averages for the pre-pandemic and post-pandemic ridership, we came up with a list of the top 20 stations by net decrease in daily turnstile entries:
 
+<img src="https://raw.githubusercontent.com/andreilevin/EDA_project/main/figures/fig5.png" 
+      title="results_unfiltered" width="400"/>
+
 However, one can see many commuter hubs in this list,  such as Penn Station and Port Authority.  In order to select primarily residential neighborhoods  we applied three filters on our station data:
 
 * Removal of stations with an abnormally large number of daily entries  
 * Removal of stations with an abnormally large number of MTA lines  
 * Removal of stations where daily exits exceed daily entries.  
-
-<img src="https://raw.githubusercontent.com/andreilevin/EDA_project/main/figures/fig5.png" 
-      title="results_unfiltered" width="400"/>
 
 After this filtering step, we sorted the stations on two metrics: net number decrease of daily entries and net percentage decrease of daily entries.  We found 7 stations that were in the Top 20 of both metrics, and we would recommend their immediate neighborhood as potential candidates for targeted NSFW sales:
 
