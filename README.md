@@ -1,6 +1,6 @@
 # Analysis of Local Work-from-home Trends from NYC Subway Turnstile Data 
 
-Our client, Necessary Supplies for Work-from-home (NSFW Inc.) sells a range work-from-home supplies such as standing desks, external monitors, and lumbar support pillows. With the pandemic-related increase in work-from-home rates, they are interested in finding out which specific NYC neighborhoods have seen the largest work-from-home rate increases, in order to try to more precisely target those areas with NSFW product sales.
+Our client, Necessary Supplies For Work-from-home (NSFW Inc.) sells a range work-from-home supplies such as standing desks, external monitors, and lumbar support pillows. With the pandemic-related increase in work-from-home rates, they are interested in finding out which specific NYC neighborhoods have seen the largest work-from-home rate increases, in order to try to more precisely target those areas with NSFW product sales.
 
 ## Design
 
